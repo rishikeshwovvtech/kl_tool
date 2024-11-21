@@ -1,0 +1,1 @@
+To generate the build => gcc keylog.c -o keylog.exe -mwindows
